@@ -15,16 +15,17 @@ https://www.kaggle.com/gpreda/pfizer-vaccine-tweets
 ## Sentiment Images
 
 ### Total Distribution 
-![Distribution](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/d1f6d61b-5c84-4da7-8a5b-7b66556afd40)
+![Distribution](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/812bbd6f-b74b-46f8-8680-4d5041c5bba9)
 
 ### Words in Positive Tweets 
-![Positive Tweets](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/0b8d6d93-9bf3-43c5-b31e-ceb12eeb28db)
+![Positive Tweets](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/dda3fb66-e8da-4c7b-8b49-474ead421465)
 
 ### Words in Negative Tweets
-![Negative Tweets](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/45e3fbc5-56c4-42ac-8386-a5fc3c8b71b5)
+![Negative Tweets](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/2066cace-4910-4e9a-9e62-b3cc7fa3d91a)
 
 ### Words in Neutral Tweets 
-![Neutral Tweets](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/62b04425-b78c-4398-9967-e8264d734ee1)
+![Neutral Tweets](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/6178b17f-eeb9-4a74-8e60-72e0eba6a66e)
 
 ### Confusion Matrix 
-![Confusion Matrix](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/e98f9bb5-3360-4445-9a18-d5704558d65e)
+![Confusion Matrix](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/ae7117d7-a901-464e-bdcb-be561662fa55)
+
