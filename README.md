@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis
-Twitter Sentiment Analysis using Machine Learning Model  
+Twitter Sentiment Analysis using Machine Learning Models
 
 ## Description
 
