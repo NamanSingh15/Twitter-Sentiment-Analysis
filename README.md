@@ -8,3 +8,8 @@ This project walks you on how to create a twitter sentiment analysis model using
 We will be using the data available on Kaggle to create this machine learning model. 
 The collected tweets from Twitter will be analysed using machine learning to identify the different sentiments present in the tweets. The different sentiments identified in this project include positive sentiment, negative sentiment and neutral sentiment. We will also be using different classifiers to see which classifier gives the best model accuracy.
 
+### Dataset Link
+https://www.kaggle.com/gpreda/pfizer-vaccine-tweets
+
+#### Images
+
