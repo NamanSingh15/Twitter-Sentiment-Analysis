@@ -26,7 +26,7 @@ https://www.kaggle.com/gpreda/pfizer-vaccine-tweets
 ### Words in Neutral Tweets 
 ![Neutral Tweets](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/62b04425-b78c-4398-9967-e8264d734ee1)
 
-### Confusion Matrix For 
+### Confusion Matrix 
 ![Confusion Matrix](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/e98f9bb5-3360-4445-9a18-d5704558d65e)
 
 
