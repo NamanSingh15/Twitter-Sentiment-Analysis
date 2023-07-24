@@ -28,7 +28,3 @@ https://www.kaggle.com/gpreda/pfizer-vaccine-tweets
 
 ### Confusion Matrix 
 ![Confusion Matrix](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/e98f9bb5-3360-4445-9a18-d5704558d65e)
-
-
-
-
