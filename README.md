@@ -1,6 +1,7 @@
-# Twitter-Sentiment-Analysis using Machine Learning
+# Twitter-Sentiment-Analysis
+Twitter Sentiment Analysis using Machine Learning Model  
 
-
+## Description
 
 This project walks you on how to create a twitter sentiment analysis model using python. Twitter sentiment analysis is performed to identify the sentiments of the people towards various topics. For this project, we will be analysing the sentiment of people towards Pfizer vaccines. 
 
