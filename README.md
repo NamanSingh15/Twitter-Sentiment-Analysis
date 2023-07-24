@@ -12,7 +12,22 @@ The collected tweets from Twitter will be analysed using machine learning to ide
 This is the dataset that I have used:
 https://www.kaggle.com/gpreda/pfizer-vaccine-tweets
 
-## Images
+## Sentiment Images
+
+### Total Distribution 
+![Distribution](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/d1f6d61b-5c84-4da7-8a5b-7b66556afd40)
+
+### Words in Positive Tweets 
+![Positive Tweets](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/0b8d6d93-9bf3-43c5-b31e-ceb12eeb28db)
+
+### Words in Negative Tweets
+![Negative Tweets](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/45e3fbc5-56c4-42ac-8386-a5fc3c8b71b5)
+
+### Words in Neutral Tweets 
+![Neutral Tweets](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/62b04425-b78c-4398-9967-e8264d734ee1)
+
+### Confusion Matrix For 
+![Confusion Matrix](https://github.com/NamanSingh15/Twitter-Sentiment-Analysis/assets/123549922/e98f9bb5-3360-4445-9a18-d5704558d65e)
 
 
 
